@@ -1,7 +1,7 @@
 /*
-BY AQULZZ
+BY RetnoGanz
 */
-const
++6285861152235
 	{
 		WAConnection,
 		MessageType,
